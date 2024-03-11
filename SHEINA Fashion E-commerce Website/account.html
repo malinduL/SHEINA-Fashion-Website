@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account</title>
+    <link rel="stylesheet" href="style_1.css" />
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap" rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+
+</head>
+
+<body>
+
+
+    <header id="home" class="header">
+        <nav class="navigation">
+            <div class="nav-center container">
+                <a href="#home" class="logo">
+                    <h1>SH<span>E</span>INA</h1>
+                </a>
+
+                <div class="nav-menu">
+                    <div class="nav-top">
+                        <div class="logo">
+                            <h1>SH<span>E</span>INA</h1>
+                        </div>
+                        <div class="close">
+                            <i class="fas fa-times"></i>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="nav-icons">
+                    <ul class="nav-list">
+                        <li class="nav-item">
+                            <a href="./index.html" class="nav-link scroll-link">Home</a>
+                        </li>
+
+                        <a href="./account.html"><span><i class="fas fa-user"></i></span></a>
+                        <span><i class="fas fa-search"></i></span>
+
+                    </ul>
+                </div>
+
+                <div class="hamburger">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+
+    <section class="left-section">
+        <div id="left-cover" class="cover cover-hide">
+            <img src="images/cover.jpg" alt="">
+            <h1>Welcome !</h1>
+            <h3>Already have an account ?</h3>
+            <button type="button" class="switch-btn" onclick="location.reload()">Login</button>
+        </div>
+        <div id="left-form" class="form fade-in-element">
+            <h1>Login</h1>
+            <form action="login.php" method="post">
+                <input type="text" name="user-name" class="input-box" placeholder="User Name">
+                <input type="password" name="user-pass" class="input-box" placeholder="Password">
+                <input type="submit" name="login-btn" class="btn" value="Login">
+            </form>
+        </div>
+    </section>
+
+    <section class="right-section">
+        <div id="right-cover" class="cover fade-in-element">
+            <img src="images/cover.jpg" alt="">
+            <h1>Welcome !</h1>
+            <h3>Don't have an account ?</h3>
+            <button type="button" class="switch-btn" onclick="switchSignup()">Signup</button>
+        </div>
+        <div id="right-form" class="form form-hide">
+            <h1>Signup</h1>
+            <form action="signup.php" method="post">
+                <input type="text" name="user-name" class="input-box" placeholder="User Name">
+                <input type="email" name="user-email" class="input-box" placeholder="Email">
+                <input type="password" name="user-pass" class="input-box" placeholder="Password">
+                <input type="submit" name="signup-btn" class="btn" value="Signup">
+            </form>
+        </div>
+    </section>
+
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

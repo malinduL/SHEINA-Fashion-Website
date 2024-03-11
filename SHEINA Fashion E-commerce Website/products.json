@@ -1,0 +1,123 @@
+{
+    "products": [{
+            "title": "Men Casual Shoe",
+            "price": "4000.99",
+            "image": "./images/pic1.png",
+            "category": "featured"
+        },
+        {
+            "title": "Women Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic2.png",
+            "category": "trend"
+        },
+        {
+            "title": " Bag",
+            "price": "850.99",
+            "image": "./images/pic3.png",
+            "category": "featured"
+        },
+        {
+            "title": "Men Casual Jacket",
+            "price": "1000.99",
+            "image": "./images/pic4.png",
+            "category": "trend"
+        },
+        {
+            "title": "Bag",
+            "price": "900.99",
+            "image": "./images/pic5.png",
+            "category": "featured"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic6.png",
+            "category": "recent"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic8.png",
+            "category": "trend"
+        },
+        {
+            "title": " Bag",
+            "price": "1200.99",
+            "image": "./images/pic7.png",
+            "category": "featured"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic8.png",
+            "category": "recent"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic1.png",
+            "category": "trend"
+        },
+        {
+            "title": "Women Casual Shoe",
+            "price": "2500.99",
+            "image": "./images/pic9.png",
+            "category": "special"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic10.png",
+            "category": "special"
+        },
+        {
+            "title": "Bag",
+            "price": "600.99",
+            "image": "./images/pic11.png",
+            "category": "special"
+        },
+        {
+            "title": "Bag",
+            "price": "2000.99",
+            "image": "./images/pic12.png",
+            "category": "recent"
+        },
+        {
+            "title": "Women's Bag",
+            "price": "2000.99",
+            "image": "./images/pic13.png",
+            "category": "special"
+        },
+        {
+            "title": "Women's Bag",
+            "price": "2850.99",
+            "image": "./images/pic_14.png",
+            "category": "latest"
+        },
+        {
+            "title": "Women's Bag",
+            "price": "2850.99",
+            "image": "./images/pic_14.png",
+            "category": "recent"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic8.png",
+            "category": "latest"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic15.png",
+            "category": "latest"
+        },
+        {
+            "title": "Men Casual Shoe",
+            "price": "2000.99",
+            "image": "./images/pic1.png",
+            "category": "latest"
+        }
+    ]
+}

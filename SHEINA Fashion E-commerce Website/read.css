@@ -1,0 +1,17 @@
+.readmore_1 img {
+    height: 27rem;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+.readmore_1 h3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.readmore_1 p {
+    text-align: justify;
+    font-size: 1.5rem;
+}
