@@ -14,5 +14,7 @@ products, making purchases, and managing accounts
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
 ## 📌 Main Page  :
+![89](https://github.com/user-attachments/assets/19deec53-86a4-4337-911d-485b550e6f30)
+
 
 
