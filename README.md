@@ -16,5 +16,13 @@ products, making purchases, and managing accounts
 ## 📌 Main Page  :
 ![89](https://github.com/user-attachments/assets/19deec53-86a4-4337-911d-485b550e6f30)
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+       https://github.com/malinduL/SHEINA-Fashion-Website.git
+
+
 
 
