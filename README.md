@@ -16,6 +16,16 @@ products, making purchases, and managing accounts
 ## 📌 Main Page  :
 ![89](https://github.com/user-attachments/assets/19deec53-86a4-4337-911d-485b550e6f30)
 
+
+##  SHEINA Fashion Website Features
+
+- **Product Listings:** Detailed product pages with high-quality images, descriptions, and pricing information.
+- **Recent Products:** Showcase of popular and recently added items to keep users engaged with current trends.
+- **Fashion Blog:** Engaging content featuring style tips, fashion news, and trend insights from industry experts.
+- **User-Friendly Navigation:** Intuitive menu and search options to easily find products and information.
+- **User Reviews and Ratings:** Section for customer feedback and ratings to assist other users in making informed decisions.
+
+
 ### Installation
 
 1. Clone the repository:
